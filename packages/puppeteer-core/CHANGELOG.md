@@ -1,5 +1,19 @@
 # Changelog
 
+## [24.38.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v24.37.5...puppeteer-core-v24.38.0) (2026-03-03)
+
+
+### 🎉 Features
+
+* roll to Chrome 146.0.7680.31 ([#14729](https://github.com/puppeteer/puppeteer/issues/14729)) ([627eb5e](https://github.com/puppeteer/puppeteer/commit/627eb5e6572f5248286ab09d74c204e2399632e8))
+* roll to Firefox 148.0 ([#14728](https://github.com/puppeteer/puppeteer/issues/14728)) ([09b655a](https://github.com/puppeteer/puppeteer/commit/09b655a1a4b2ee389f4a63f701a347566a5b9d88))
+
+
+### 🛠️ Fixes
+
+* consider browsingContext.navigationCommitted to dispose an existing navigation ([#14724](https://github.com/puppeteer/puppeteer/issues/14724)) ([b4e92c6](https://github.com/puppeteer/puppeteer/commit/b4e92c637c503710895c842f391793018c4f35b5))
+* roll to Chrome 145.0.7632.117 ([#14719](https://github.com/puppeteer/puppeteer/issues/14719)) ([1d407e1](https://github.com/puppeteer/puppeteer/commit/1d407e1e69ee0f307f8819152a980fa0a24835ff))
+
 ## [24.37.5](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v24.37.4...puppeteer-core-v24.37.5) (2026-02-19)
 
 
